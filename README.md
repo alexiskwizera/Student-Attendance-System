@@ -9,6 +9,8 @@
 5.TUYIZERE Belyse
 6.MUCYO Egide
 7.NIYONZIMA Germain
+8.TUYISHIME Jean Damacsene
+9.NDAYISHIMIYE Thierry
 
 >TASK:
 A backend system to manage student attendance using:
